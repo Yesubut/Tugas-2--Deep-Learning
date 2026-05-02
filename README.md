@@ -9,10 +9,10 @@ Project ini merupakan implementasi metode Deep Learning untuk menyelesaikan perm
 - Mengevaluasi performa model
 
 ## Dataset
-Dataset yang digunakan: [Nama Dataset]
+Dataset yang digunakan: [ https://www.kaggle.com/datasets/wiratrnn/banana-ripeness-image-dataset]
 
 Sumber dataset:
-[Kaggle / UCI / Dataset lainnya]
+[Kaggle ]
 
 ## Tools dan Library
 - Python
@@ -49,9 +49,9 @@ Mengukur performa model menggunakan:
 - Confusion Matrix
 
 ## Hasil
-Akurasi model: XX%
+Akurasi model:99.5%
 
-Loss: XX
+Loss:0.0250.
 
 ## Visualisasi
 Menampilkan grafik:
